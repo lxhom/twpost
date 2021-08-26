@@ -1,0 +1,17 @@
+{
+  "name": "twpost",
+  "version": "1.0.0",
+  "description": "Post to twitter via CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "twpost": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
